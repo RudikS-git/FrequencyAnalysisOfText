@@ -1,0 +1,10 @@
+id=4
+name=reff
+text=htrhrhrhrthrthhr
+date=2021-09-24 18:49:05.002
+amount-number=0
+amount-symbols=16,
+amount-unique-letters=3
+amount-unique-two-letters=7,
+amount-unique-three-letters=9,
+amount-unique-words=1,

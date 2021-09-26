@@ -1,0 +1,10 @@
+id=10
+name=fw
+text=fggd
+date=2021-09-26 12:58:13.81
+amount-number=0
+amount-symbols=4,
+amount-unique-letters=3
+amount-unique-two-letters=3,
+amount-unique-three-letters=2,
+amount-unique-words=1,

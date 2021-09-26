@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AnalyzeText/AnalyzeText.iml" filepath="$PROJECT_DIR$/../AnalyzeText/AnalyzeText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ReactUI/ReactUI.iml" filepath="$PROJECT_DIR$/../ReactUI/ReactUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebFrequenceAnalysisOfText.iml" filepath="$PROJECT_DIR$/WebFrequenceAnalysisOfText.iml" />
+    </modules>
+  </component>
+</project>
